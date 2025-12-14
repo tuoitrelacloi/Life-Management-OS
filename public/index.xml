@@ -6,23 +6,17 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Giải thích các thuật ngữ</title>
-    <link>https://quartz.jzhao.xyz/1</link>
-    <guid>https://quartz.jzhao.xyz/1</guid>
-    <description><![CDATA[ Dưới đây là giải thích ngắn gọn – đúng theo Phật học Nguyên thủy (Theravāda) các thuật ngữ trong đoạn văn bạn đưa ra: 1. ]]></description>
-    <pubDate>Sun, 14 Dec 2025 07:26:05 GMT</pubDate>
-  </item><item>
-    <title>Home</title>
-    <link>https://quartz.jzhao.xyz/Welcome</link>
-    <guid>https://quartz.jzhao.xyz/Welcome</guid>
-    <description><![CDATA[ Chào mừng đến với khu vườn online. ]]></description>
-    <pubDate>Sat, 13 Dec 2025 23:41:13 GMT</pubDate>
-  </item><item>
     <title>Welcome to Quartz</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
-    <pubDate>Sat, 13 Dec 2025 23:32:18 GMT</pubDate>
+    <pubDate>Sat, 13 Dec 2025 22:03:05 GMT</pubDate>
+  </item><item>
+    <title>Mục Lục</title>
+    <link>https://quartz.jzhao.xyz/index1</link>
+    <guid>https://quartz.jzhao.xyz/index1</guid>
+    <description><![CDATA[  Trang index @2025 . ]]></description>
+    <pubDate>Sat, 13 Dec 2025 22:03:05 GMT</pubDate>
   </item>
     </channel>
   </rss>
